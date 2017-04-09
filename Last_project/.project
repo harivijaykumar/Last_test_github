@@ -14,16 +14,4 @@
 	<natures>
 		<nature>com.salesforce.ide.nature.default</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>build.properties</name>
-			<type>1</type>
-			<location>C:/Users/HP/Desktop/build/build.properties</location>
-		</link>
-		<link>
-			<name>build.xml</name>
-			<type>1</type>
-			<location>C:/Users/HP/Desktop/build/build.xml</location>
-		</link>
-	</linkedResources>
 </projectDescription>
